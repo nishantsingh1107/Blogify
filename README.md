@@ -67,4 +67,33 @@ Blogify/
 │   ├── pages/
 │   └── main.jsx
 └── README.md
+```
 
+## ⚡ Getting Started
+📋 Prerequisites
+Node.js v16+
+npm or yarn
+MongoDB instance (local or remote)
+
+```bash
+# Clone repository
+git clone https://github.com/nishantsingh1107/Blogify.git
+cd Blogify
+
+# Install backend dependencies
+cd Backend
+npm install
+
+# Install frontend dependencies
+cd ../Frontend
+npm install
+```
+
+## ▶️ Run Locally
+```bash
+# Start backend (from Backend folder)
+npm run dev
+
+# Start frontend (from Frontend folder)
+npm run dev
+```
