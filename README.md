@@ -53,5 +53,18 @@ It’s built with **JavaScript technologies** across both the frontend and backe
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
+
+```bash
+Blogify/
+├── Backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── app.js
+├── Frontend/
+│   ├── components/
+│   ├── pages/
+│   └── main.jsx
+└── README.md
 
